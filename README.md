@@ -1,4 +1,4 @@
-# Car_Price_Prediction.
+# Car_Price_Prediction
 Car Price Prediction Model
 Overview
 This project involves predicting car prices based on various features using a machine learning model. The model utilizes a Random Forest Regressor to estimate the selling price of a car from a given dataset.
